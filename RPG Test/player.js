@@ -1,0 +1,8 @@
+var Player = {
+
+	name : "None"
+
+
+
+
+}
